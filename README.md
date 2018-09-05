@@ -69,3 +69,7 @@ When developing on Windows - if you have installed 64bit libraries, and 64bit MS
 ```
 
 before running `cargo build`
+
+## License
+
+MIT
