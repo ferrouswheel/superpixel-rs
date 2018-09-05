@@ -8,6 +8,7 @@ authors = ["joel"]
 exclude = [
     "assets/*",
 ]
+readme = "README.md"
 license = "MIT"
 
 
