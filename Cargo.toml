@@ -2,6 +2,9 @@
 name = "superpixel"
 version = "0.1.0"
 authors = ["joel"]
+exclude = [
+    "assets/*",
+]
 
 [dependencies]
 image = "*"
